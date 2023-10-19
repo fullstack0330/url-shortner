@@ -22,7 +22,7 @@ Go [here](https://shortly.cantcode.fyi) to use the app.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/phantomknight287/url-shortner.git
+git clone https://github.com/fullstack0330/url-shortner.git
 ```
 
 2. Install dependencies
